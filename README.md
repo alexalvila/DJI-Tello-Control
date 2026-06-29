@@ -1,1 +1,1 @@
-Se adjunta distintos tipos de control de un dron DJI Tello
+Se adjuntan distintos tipos de control para un dron DJI Tello.
